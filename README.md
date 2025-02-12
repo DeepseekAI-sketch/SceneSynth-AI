@@ -2,6 +2,7 @@
 ## Transform your images into explorable 3D environments using AI technology. Upload an image to get started.
 ## React + TypeScript + Vite
 
+![image](https://github.com/user-attachments/assets/31cee93b-f9ab-42e4-9463-3f7b663d2533)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
