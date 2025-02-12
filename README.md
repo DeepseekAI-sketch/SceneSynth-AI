@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# SceneSynth-AI 2D to 3D Environment Generator
+## Transform your images into explorable 3D environments using AI technology. Upload an image to get started.
+## React + TypeScript + Vite
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
